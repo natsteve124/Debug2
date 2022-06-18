@@ -16,6 +16,7 @@ def score_to_letter_grade(grade):
     else:
         return "F"
 
+#this is for printing the result
 
 print("Grade of 90 should be A: " + score_to_letter_grade(90))
 print("Grade of 87 should be B+: " + score_to_letter_grade(87))
